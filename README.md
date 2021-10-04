@@ -1,5 +1,6 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=5833586&assignment_repo_type=AssignmentRepo)
-# Group YYY - {Short snappy Title of your project}
+
+# Group 14 - Investigating Housing Prices in California
 
 - Your title can change over time.
 
@@ -9,11 +10,15 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 ## Describe your topic/interest in about 150-200 words
 
-{Add your stuff here}
+{add stuff here}
 
 ## Describe your dataset in about 150-200 words
 
-{Add your stuff here}
+This dataset is based on the 1990 census report of housing prices in California. It is a modified version of another dataset used in an academic paper published in 1997. It was cleaned and modified by the owner.
+
+The data is mostly quantitative information about houses (value, no of bedrooms, etc), its residents (median age, median income, etc) and its location in relation to different city centres across California or the coast.
+
+This database's main purpose, according to the owner, is that its great for learning data analysis and machine learning.
 
 ## Team Members
 
@@ -29,7 +34,6 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 ## References
 
+[Our dataset on Kaggle](https://www.kaggle.com/fedesoriano/california-housing-prices-data-extra-features)
+
 {Add your stuff here}
-
-
-
