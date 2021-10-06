@@ -16,7 +16,8 @@ There's a lot we can look at, like for example, how the pricing changes as house
 
 It might be really interesting to see where an ideal location to buy/build a new house might be to sell for maximum price.
 
-We may also be able to find anamolies where they mave a good location that would normally lead to high prices, but for some reason, the house prices on average are lower than others (maybe due to crime or derelict buildings). This may have shown us potential bargains in the market and it would be really cool to see the difference in prices now.
+We may also be able to find anamolies where a good location would normally lead to high prices, but for some reason, the house prices on average are lower than others (maybe due to crime or derelict buildings). This may have shown us potential bargains in the market back in 1990 and it would be really cool to see the difference in prices now.
+
 
 ## Describe your dataset in about 150-200 words
 
