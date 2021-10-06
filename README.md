@@ -28,7 +28,7 @@ This database's main purpose, according to the owner, is that it's great for lea
 
 {You can use this area for any images you want to include}
 
-<img src ="images/test.png" width="100px">
+![Houses in California](images/california_housing.jpg)
 
 ## References
 
