@@ -29,7 +29,7 @@ This database's main purpose, according to the owner, is that it's great for lea
 ## Team Members
 
 - Abhinav Thota: I'm a third year CS student and I live off Indomie. (Teammate 1)
-- Person 2: one sentence about you! (Teammate 2)
+- Jaden Dyck: I am in economics, hoping to minor in computer science or management. (Teammate 2)
 - Person 3: one sentence about you! (Teammate 3)
 
 ## Images
