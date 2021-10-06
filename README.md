@@ -18,7 +18,6 @@ It might be really interesting to see where an ideal location to buy/build a new
 
 We may also be able to find anamolies where a good location would normally lead to high prices, but for some reason, the house prices on average are lower than others (maybe due to crime or derelict buildings). This may have shown us potential bargains in the market back in 1990 and it would be really cool to see the difference in prices now.
 
-
 ## Describe your dataset in about 150-200 words
 
 This dataset is based on the 1990 census report of housing prices in California. It was cleaned and modified by the owner.
@@ -29,9 +28,9 @@ This database's main purpose, according to the owner, is that it's great for lea
 
 ## Team Members
 
-- Abhinav Thota: I'm a third year CS student and I live off Indomie.
-- Person 2: one sentence about you!
-- Person 3: one sentence about you!
+- Abhinav Thota: I'm a third year CS student and I live off Indomie. (Teammate 1)
+- Person 2: one sentence about you! (Teammate 2)
+- Person 3: one sentence about you! (Teammate 3)
 
 ## Images
 
