@@ -10,7 +10,7 @@ def load_and_process(path):
     
     df_clean = (
         read_csv(path)
-        .drop(['Median_Age','Tot_Rooms','Tot_Bedrooms','Households','Latitude','Longitude','Population','Distance_to_SanDiego','Distance_to_SanJose'],axis='columns')
+        .drop(['Median_Age','Tot_Rooms','Tot_Bedrooms','Households','Population','Distance_to_SanDiego','Distance_to_SanJose'],axis='columns')
         .rename(columns = {
         'Median_House_Value' : 'med_price',
         'Median_Income' : 'med_income',
