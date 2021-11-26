@@ -1,3 +1,4 @@
+import pandas as pd
 import numpy as np
 import seaborn as sns
 import matplotlib
@@ -9,7 +10,7 @@ def load_and_process(path):
 #     get rid of unused columns, rename existing ones into more convenient names
     
     df_clean = (
-        read_csv(path)
+        pd.read_csv(path)
         .drop(['Median_Age','Tot_Rooms','Tot_Bedrooms','Households','Population','Distance_to_SanDiego','Distance_to_SanJose'],axis='columns')
         .rename(columns = {
         'Median_House_Value' : 'med_price',
