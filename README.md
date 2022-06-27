@@ -2,6 +2,10 @@
 
 # Group 14 - Investigating Housing Prices in California (1990)
 
+![Click here to view my tableau investigation using this dataset](https://user-images.githubusercontent.com/59943893/175869996-cbd6d17f-ca11-4c0f-9c7c-283bcf55b4f4.mp4)
+
+
+
 ## Milestones
 
 Details for Milestone are available on Canvas (left sidebar, Course Project) or [here](https://firas.moosvi.com/courses/data301/project/milestone01.html)
